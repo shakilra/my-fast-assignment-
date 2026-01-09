@@ -1,0 +1,28 @@
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+.list-item{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    background-color: darkkhaki;
+    border-radius: 10px;
+    
+}
+.nev-img{
+    width: 50px;
+    height: 25px;
+}
