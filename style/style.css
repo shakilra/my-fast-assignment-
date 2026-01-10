@@ -6,7 +6,7 @@
     align-items: center;
     background-color: bisque;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 auto;
 
 }
 .list-item{
@@ -25,4 +25,65 @@ a{
 .nev-img{
     width: 50px;
     height: 25px;
+}
+#banner-con{
+    background-image: url(../assets/hero-bg.png);
+    text-align: center;
+    padding:20px auto ;
+    margin: 20px auto;
+
+
+
+}
+.banner-section{
+   
+    margin: 0 auto;
+    padding: 20 auto;
+    position: 0;
+    margin-top: 0px;
+    
+}
+#x{
+    background-color: azure;
+    border: 20px auto ;
+    color: #000;
+    text-align: center;
+    border-radius: 50px;
+    margin: 20px 100px;
+    list-style: none;
+
+
+
+}
+.banner-section #p{
+    color: aliceblue;
+    gap: 10px;
+}
+ .banner-section .btn-2{
+    background-color: darkgreen;
+    border-radius: 5px;
+    
+}
+.banner-section .btn-3{
+    background-color: slategray;
+    border-radius: 5px;
+}
+.A{
+    text-align: center;
+    
+}
+main{
+    margin: 0px 120px;
+}
+#img{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#img .imgs{
+   background-color: #F95555;
+   border: 15px solid #F95555;
+   border-radius: 200px;
+   text-align: center;
+   gap: 10px;
 }
